@@ -1,6 +1,7 @@
 # ***README***
 
 * This repository has the code along with all the needed files to perform detection of cars in an image or video.
+* The explaination of how harr cascades works is available in the file called Working_of_Harr_Cascades.odt
 * The Harr Cascades Classifier is trained on a dataset consisting of around 2000 positive images and 5800 negative images.
 * The dataset of the positive and negative images is provided in the repository folder cars_dataset and negatives respectively.
 * The dataset was downloaded from the following links:-
